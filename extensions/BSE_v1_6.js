@@ -137,7 +137,7 @@
         getInfo() {
             return {
                 "id": "betterscratch16fixed",
-                "name": "Better Scratch V1.6 (Fixed)",
+                "name": "Better Scratch V1.6",
                 "color1": "#0088ff",
                 "color2": "#0063ba",
                 "tbShow": true,
